@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on a CRUD application.
 - 🌱 I’m currently learning Next.js and Express
 - 💬 Ask me about React, JavaScript, and software development
-- 📫 How to reach me: **brandon@example.com**
+- 📫 How to reach me: **bduong1497@gmail.com**
 - ⚡ Fun fact: In my free time, I enjoy playing volleyball, hitting the gym, gaming, and working out.
 
 # 💻 Tech Stack:
